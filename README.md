@@ -13,7 +13,7 @@ The heuristic and edge cost as well as the function retrieving the neighbors of 
 provided as functors to parametrize the algorithm. 
 
 ## Usage Examples
-There two usage examples included. The first one operates on a graph that is explicitly represented using 
+There are two usage examples included. The first one operates on a graph that is explicitly represented using 
 lists of nodes and edges (```example_with_graph.cpp```) which is used in two different ways.
 The second example is based on an image where the graph is given implicitly by the regular grid structure of 
 the pixels (```example_with_image.cpp```). In order to build the image example, you will also need 
