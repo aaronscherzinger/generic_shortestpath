@@ -6,7 +6,7 @@ but it is lightweight (single-file, header-only) and very generic, so it should 
 ## Notes
 
 The path finding algorithm is templated regarding the node type (which may also be an ID such as an 
-```int``` or a const* for your Node type) and numeric value for the cost function (default is ```float```). 
+```int``` or a ```const *``` for your Node type) and numeric value for the cost function (default is ```float```). 
 Please consider the documentation of the ```PathFinding``` class in ```pathfinding.h``` for 
 restrictions / requirements regarding the template arguments.
 The heuristic and edge cost as well as the function retrieving the neighbors of a given node need to be 
