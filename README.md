@@ -21,4 +21,4 @@ the pixels (```example_with_image.cpp```). In order to build the image example, 
 The resulting image is also included (```result_path.png```). 
 
 ## Platforms
-The code has been compiled and tested on Linux Mint 19 with GCC 7.4 and Windows 7 64-but with Visual Studio 2017.
+The code has been compiled and tested on Linux Mint 19 with GCC 7.4 and Windows 7 64-bit with Visual Studio 2017.
